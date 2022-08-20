@@ -10,4 +10,11 @@ learngitbranching.js.org also very informative( everything looks informative whe
 ![linux 2](https://user-images.githubusercontent.com/109952232/184617881-13af42fa-5523-41e9-979a-717a9ae98a5b.png)
 ![linux 3](https://user-images.githubusercontent.com/109952232/184617883-21a496dc-3820-4774-8ee5-b1353d56f137.png)
 ![linux 4](https://user-images.githubusercontent.com/109952232/184617884-03b182ac-3347-4231-ae54-9c7581172f2f.png)
-I like everything that you are suggesting to learn. Materials providing with bunch of jokes which helps to remember those lessons.  
+I like everything that you are suggesting to learn. Materials providing with bunch of jokes which helps to remember those lessons. 
+## Git Collaboration
+Coursera 1.png
+Coursera 2.png
+Coursera 3.png
+Coursera 4.png
+It starts to get sense, I'm beginning to recognize some of information that I've heard passing previous lesson.
+^_^
