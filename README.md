@@ -18,3 +18,7 @@ I like everything that you are suggesting to learn. Materials providing with bun
 ![Coursera 4](https://user-images.githubusercontent.com/109952232/185764063-98ae8470-5782-4564-8b27-c3ca74dc734f.png)
 It starts to get sense, I'm beginning to recognize some of information that I've heard passing previous lesson.
 ^_^
+## Intro to HTML and CSS
+![HTML CSS 1](https://user-images.githubusercontent.com/109952232/187027141-cabcf17a-38cd-429e-918b-d615958c3be5.png)
+![HTML CSS 2](https://user-images.githubusercontent.com/109952232/187027146-cc6b3198-9799-435e-aad5-4e1226e3fba8.png)
+I'm sure that the information from course above is unique, but the way it was given makes it easy forgetable :( 
