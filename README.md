@@ -1,5 +1,4 @@
 # kottans-frontend
-Frontend Kottans
 <br>
 Maybe when I'll start this again it's gonna work
 <br>
