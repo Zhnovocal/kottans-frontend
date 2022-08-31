@@ -20,4 +20,8 @@ It starts to get sense, I'm beginning to recognize some of information that I've
 ## Intro to HTML and CSS
 ![HTML CSS 1](https://user-images.githubusercontent.com/109952232/187027141-cabcf17a-38cd-429e-918b-d615958c3be5.png)
 ![HTML CSS 2](https://user-images.githubusercontent.com/109952232/187027146-cc6b3198-9799-435e-aad5-4e1226e3fba8.png)
-I'm sure that the information from course above is unique, but the way it was given makes it easy forgetable :( 
+I'm sure that the information from course above is unique, but the way it was given makes it easy forgetable :(
+## Responsive Web Design
+![Froggy](https://user-images.githubusercontent.com/109952232/187689123-e763a53c-f0a8-493a-b6f8-111654b06659.png)
+![Grid Garden](https://user-images.githubusercontent.com/109952232/187689155-8a895818-dde0-4389-a16e-bc902821d291.png)
+Really enjoyable task! Wonderful part of studying are these games, in pair with pretty clear explaining grids by YouTube lectures. Therefore I expect a bit of practice in next task.
